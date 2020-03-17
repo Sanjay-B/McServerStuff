@@ -1,0 +1,32 @@
+1. EVERYONE in the server must follow BOTH of these guides:
+
+https://rebirth-of-the-night-mod-pack.fandom.com/wiki/Installation#Installing_Custom_Music_.28recommended.29
+https://rebirth-of-the-night-mod-pack.fandom.com/wiki/Installation#Installing_Optifine_.28required.21.29
+
+^ ^ ^ ^ ^ IMPORTANT ^ ^ ^ ^ ^
+
+2. Port forward the port 25565.
+Here are some links to help you port forward:
+https://www.noip.com/support/knowledgebase/how-to-host-and-configure-a-minecraft-server-with-no-ip/
+http://www.portchecktool.com/
+
+3. Open "Start Server.bat". (don't open as Admin) If it brings up an issue about Java, edit the .bat file with a text editor and replace "Java" with the location to your Java installation (usually "C:\Program Files (x86)\Java\jre8\bin\javaw.exe").
+
+4. Lots of biome errors will show at the end. That's when you know the server has started. (working on a fix)
+
+5. Connect to the server.
+
+
+
+If you are having trouble, read https://rebirth-of-the-night-mod-pack.fandom.com/wiki/Installation
+If you are still having trouble, ask in our Discord: https://discord.gg/VDvJdjR
+
+
+
+Only increase RAM if you plan to play with many people!
+If you want to increase the server RAM, edit "Start Server.bat" with a text editor and replace the entire thing with:
+@ECHO OFF
+java -Xmx6048M -Xms6048M -jar forge-1.12.2-14.23.5.2838-universal.jar nogui
+pause
+
+The server has 4GB by default, which should be plenty, but if you plan to have more than 4-5 people play, change it to 6GB maximum, anymore will cause it to lag.

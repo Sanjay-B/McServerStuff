@@ -1,0 +1,22 @@
+setIcon("dungeontactics:silver_helmet")
+setTitle("Taking Aim")
+setDescription("Complete the Taking Aim set.")
+
+addParent("triumph:advancements/setbonuses/aworthycompromise")
+addParent("triumph:advancements/setbonuses/powercouple")
+
+
+criteria = addCriteria("Silver Helmet", "minecraft:inventory_changed")
+criteria.addItem("dungeontactics:silver_helmet")
+
+criteria = addCriteria("Silver Chestplate", "minecraft:inventory_changed")
+criteria.addItem("dungeontactics:silver_chestplate")
+
+criteria = addCriteria("Onyx Leggings", "minecraft:inventory_changed")
+criteria.addItem("simpleores:onyx_leggings")
+
+criteria = addCriteria("Onyx Boots", "minecraft:inventory_changed")
+criteria.addItem("simpleores:onyx_boots")
+setPos(-145,-113)
+
+alwaysVisible()
