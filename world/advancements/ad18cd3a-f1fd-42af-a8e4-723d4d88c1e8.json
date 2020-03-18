@@ -1,0 +1,44 @@
+{
+  "betterwithmods:root": {
+    "criteria": {
+      "has_item": "2020-03-17 20:43:45 +0000"
+    },
+    "done": true
+  },
+  "triumph:advancements/main/recipes": {
+    "criteria": {
+      "Inventory changed": "2020-03-17 20:43:27 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/buildingblocks/greenhouse_glass": {
+    "criteria": {
+      "has_the_recipe": "2020-03-17 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "chutes:wood": {
+    "criteria": {
+      "has_planks": "2020-03-17 21:14:49 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_the_recipe": "2020-03-17 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "betterwithmods:hemp_seed": {
+    "criteria": {
+      "has_items": "2020-03-17 20:50:03 +0000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/chainarmor": {
+    "criteria": {
+      "Chainmail Leggings": "2020-03-17 21:07:46 +0000"
+    },
+    "done": false
+  }
+}

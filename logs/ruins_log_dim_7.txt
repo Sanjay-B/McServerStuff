@@ -1,0 +1,9 @@
+
+Loading options from: /home/ec2-user/McServerStuff/world/DIM7
+tries_per_chunk_normal = 5
+chance_to_spawn_normal = 6.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 156.0
+anySpawnMinDistance = 124
+anySpawnMaxDistance = 2147483647
+Ruins mod loaded successfully for world ./world/DIM7, template files: 30

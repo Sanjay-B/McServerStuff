@@ -1,0 +1,38 @@
+{
+  "betterwithmods:root": {
+    "criteria": {
+      "has_item": "2020-03-17 20:51:23 +0000"
+    },
+    "done": true
+  },
+  "triumph:advancements/main/recipes": {
+    "criteria": {
+      "Inventory changed": "2020-03-17 20:45:14 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/buildingblocks/greenhouse_glass": {
+    "criteria": {
+      "has_the_recipe": "2020-03-17 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "chutes:wood": {
+    "criteria": {
+      "has_planks": "2020-03-17 21:17:04 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_the_recipe": "2020-03-17 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "betterwithmods:hemp_seed": {
+    "criteria": {
+      "has_items": "2020-03-17 21:00:36 +0000"
+    },
+    "done": true
+  }
+}

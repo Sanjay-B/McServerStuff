@@ -1,0 +1,38 @@
+{
+  "betterwithmods:root": {
+    "criteria": {
+      "has_item": "2020-03-17 20:51:30 +0000"
+    },
+    "done": true
+  },
+  "triumph:advancements/main/recipes": {
+    "criteria": {
+      "Inventory changed": "2020-03-17 20:50:02 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/buildingblocks/greenhouse_glass": {
+    "criteria": {
+      "has_the_recipe": "2020-03-17 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "chutes:wood": {
+    "criteria": {
+      "has_planks": "2020-03-17 20:56:25 +0000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/copper": {
+    "criteria": {
+      "Copper ore": "2020-03-17 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_the_recipe": "2020-03-17 20:49:17 +0000"
+    },
+    "done": true
+  }
+}
