@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "triumph:advancements/deaths/creeper1": {
+    "criteria": {
+      "Creeper": "2020-03-18 00:27:48 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/buildingblocks/greenhouse_glass": {
     "criteria": {
       "has_the_recipe": "2020-03-17 20:40:23 +0000"
@@ -20,6 +26,12 @@
   "chutes:wood": {
     "criteria": {
       "has_planks": "2020-03-17 21:14:49 +0000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/copper": {
+    "criteria": {
+      "Copper ore": "2020-03-18 00:43:32 +0000"
     },
     "done": true
   },

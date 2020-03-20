@@ -9,8 +9,25 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
--1208 62 -561 -1205 68 -557 StonePillar.tml
+-2076 61 -626 -2069 65 -619 TinyFarmField.tml
+-1994 66 -94 -1987 75 -87 Outcrop.tml
+-1949 68 -258 -1942 72 -251 TinyFarmField.tml
+-1945 65 -452 -1938 74 -445 Outcrop.tml
+-1832 61 -614 -1829 67 -610 StonePillar.tml
+-1779 73 -314 -1774 79 -309 CaveSpiderBurrow.tml
+-1760 69 -141 -1747 78 -128 VolcanicVent.tml
+-1595 66 -973 -1583 71 -961 AncientFountain.tml
+-1577 72 -302 -1573 74 -298 EmeraldOreOutcrop.tml
+-1573 67 -291 -1563 76 -279 StoneHouseMruined.tml
+-1570 61 -72 -1567 65 -69 StoneGrill.tml
+-1569 67 -503 -1557 72 -491 AncientFountain.tml
+-1537 69 -670 -1534 73 -667 StoneGrill.tml
+-1416 72 -846 -1414 76 -843 SkeletonHeadStatue.tml
+-1392 62 -189 -1385 71 -182 Outcrop.tml
+-1379 69 -484 -1372 78 -477 Outcrop.tml
+-1372 66 -654 -1367 72 -649 CaveSpiderBurrow.tml
 -1208 62 -187 -1198 71 -175 StoneHouseMruined.tml
+-1208 62 -561 -1205 68 -557 StonePillar.tml
 -1166 69 -899 -1162 71 -895 EmeraldOreOutcrop.tml
 -1151 50 110 -1143 67 136 shipwreck.tml
 -1100 147 -375 -1093 151 -368 TinyFarmField.tml
